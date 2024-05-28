@@ -20,7 +20,11 @@ To be continued
 
 ## Screenshots
 
-To be continued
+## Figma 
+
+![Figma Phone](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/0e9c44fc-583d-4d7e-98e8-9c60a7b44a60)
+![Figma Tablet](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/330ef4d7-54d1-4681-9f8a-5ffae7c9d873)
+![Figma desktop](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/fbef2e1a-227f-4775-85d6-8aa65ed23a55)
 
 ## Target audience
 
