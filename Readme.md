@@ -16,7 +16,8 @@ The purpose of this personal portfolio is to present what skills and understandi
 
 ## Functionality/Features
 
-The website has 4 Pages in the Navigation bar 
+Started off with choosing a background color and created a header. Created a folder for CSS styling to change the font size and font family of the header. The navigation was also input into the header, gave it some width along with display flex to justify the positioning of each Navigation Links.
+
 
 ## Screenshots
 
