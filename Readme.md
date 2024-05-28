@@ -26,6 +26,11 @@ To be continued
 ![Figma Tablet](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/330ef4d7-54d1-4681-9f8a-5ffae7c9d873)
 ![Figma desktop](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/fbef2e1a-227f-4775-85d6-8aa65ed23a55)
 
+## Sitemap with drawio
+
+![wireframe](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/cbbb4e70-c247-4a8b-ba2d-64a6f5715bdb)
+
+
 ## Target audience
 
 To be continued
