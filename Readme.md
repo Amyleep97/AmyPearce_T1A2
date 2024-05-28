@@ -12,14 +12,15 @@
 
 ## Purpose
 
-The purpose of this personal portfolio is to present what skills and understandings I have of HTML5 and CSS coding. This personal portfolio will be a great example showing what I have learnt in the past 5 weeks through CoderAcademy. This will also include some insight into who I am as a person and why I would be great asset to a Webdesign/Web development company.
+The purpose of this personal portfolio is to present what skills and understandings I have of HTML5 and CSS coding. This personal portfolio will be a great example showing what I have learnt in the past 5 weeks through CoderAcademy. It will also include some insight into who I am as a person and why I would be great asset to a Webdesign/Web development company.
 
 ## Functionality/Features
 
-To be continued
+The website has 4 Pages in the Navigation bar 
 
 ## Screenshots
 
+<<<<<<< HEAD
 ## Figma 
 
 ![Figma Phone](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/0e9c44fc-583d-4d7e-98e8-9c60a7b44a60)
@@ -29,6 +30,8 @@ To be continued
 ## Sitemap with drawio
 
 ![wireframe](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/cbbb4e70-c247-4a8b-ba2d-64a6f5715bdb)
+=======
+>>>>>>> 7c68e81 (Added Heading and css styling)
 
 
 ## Target audience

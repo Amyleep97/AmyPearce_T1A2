@@ -1,0 +1,19 @@
+:root {
+    background-color: #B2DCDC;
+
+}
+
+
+.Name {
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+
+}
+
+.Heading-Text {
+    color: black;
+}
+
