@@ -23,7 +23,6 @@ Started off with choosing a background color and created a header. Created a fol
 
 ## Screenshots
 
-
 ### Figma 
 
 ![figma phone new](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/9259b126-dad1-4d19-8cb4-4634d5957300)
@@ -33,6 +32,11 @@ Started off with choosing a background color and created a header. Created a fol
 ## Sitemap with drawio
 
 ![Sitemap](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/221527c9-6e22-4b72-b4ea-b3cdcff8bef4)
+=======
+
+
+
+
 
 
 ## Target audience
