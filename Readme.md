@@ -35,10 +35,6 @@ Started off with choosing a background color and created a header. Created a fol
 =======
 
 
-
-
-
-
 ## Target audience
 
 To be continued
