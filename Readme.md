@@ -27,9 +27,8 @@ Started off with choosing a background color and created a header. Created a fol
 ### Figma 
 
 ![figma phone new](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/9259b126-dad1-4d19-8cb4-4634d5957300)
-![Figma Tablet](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/b9d05b25-17bf-429b-aee6-580622dc2824)
-
-![Figma Desktop](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/b595fffc-ce99-4d4d-8579-aa44bccafeb3)
+![Figma tablet new](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/4476783b-3831-44d0-bcad-dc18d90a8c6a)
+![desktop new](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/531c2e91-24ea-4eee-9ab8-ac7e0c7fef66)
 
 ## Sitemap with drawio
 
