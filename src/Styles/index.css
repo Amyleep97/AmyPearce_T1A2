@@ -4,7 +4,7 @@
 }
 
 .Intro {
-    color: rgb(4, 4, 4);
+    color: rgb(2, 2, 2);
     font-size: 55px;
     font-family:"Honk", system-ui;
     display: flex;
@@ -23,8 +23,8 @@ body {
 
 #nav-items {
     width: 100%;
-    font-size: 15px;
-    font-family: "Barriecito", system-ui;
+    font-size: 20px;
+    font-family: "Honk", system-ui;
 }
 
 #nav-items {
@@ -35,7 +35,7 @@ body {
 
 #nav-items a {
     text-decoration: none;
-    background-color: white;
+    background-color: rgb(10, 10, 10);
     color: black;
     padding: 12px;
     border-radius: 50px;
@@ -57,7 +57,7 @@ footer {
 
 .social-media a i {
     font-size: 40px;
-    color: rgb(255, 255, 255);
+    color: rgb(8, 8, 8);
 }
 
 
