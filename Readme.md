@@ -24,11 +24,16 @@ Started off with choosing a background color and created a header. Created a fol
 ## Screenshots
 
 
-## Figma 
+### Figma 
 
+![figma phone new](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/9259b126-dad1-4d19-8cb4-4634d5957300)
+![Figma Tablet](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/b9d05b25-17bf-429b-aee6-580622dc2824)
+
+![Figma Desktop](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/b595fffc-ce99-4d4d-8579-aa44bccafeb3)
 
 ## Sitemap with drawio
 
+![Sitemap](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/221527c9-6e22-4b72-b4ea-b3cdcff8bef4)
 
 
 ## Target audience
