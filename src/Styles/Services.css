@@ -1,0 +1,31 @@
+.Services-title {
+    font-size: 50px;
+    font-family:"Honk", system-ui;
+    display: flex; 
+    justify-content: center;
+
+
+}
+
+.Services-picture img {
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 60px;
+    border-radius: 20px;
+}
+
+.Services-picture { 
+    margin-top: 20px;
+    display: flex;
+    justify-content:center;
+}
+
+h3 {
+    position: absolute;
+    margin-top: 48%;
+    font-family:"Honk", system-ui;
+    background-color: rgb(6, 6, 6);
+    color: white;
+    padding: 10px;
+    border-radius: 70%;
+}
