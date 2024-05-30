@@ -1,0 +1,37 @@
+.Blog-Post1 img {
+    width: 30%;
+    height: 200px;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: rgb(253, 252, 252);
+   
+}
+.Blog-Post1 {
+    display:flex;
+    justify-content:end;
+}
+.Blog-Post2 img {
+    width: 30%;
+    height: 200px;
+    margin-bottom:50px;
+    padding: 20px;
+    background-color: white;
+
+}
+.Blog-Post3 img {
+    width: 30%;
+    height: 200px;
+    padding: 20px;
+    background-color: white;
+
+}
+.Blog-Post3 {
+    display: flex;
+    justify-content: end;
+}
+.Blog-Post4 img {
+    width: 30%;
+    height: 200px;
+    padding: 20px;
+    background-color: white;
+}
