@@ -1,8 +1,18 @@
-.
+.Blog-title{
+    font-size: 50px;
+    font-family:"Honk", system-ui;
+    display: flex; 
+    justify-content: center;
+    margin-top: 50px;
+}
+.Post-1 {
+    display: flex;
+    justify-content: end;
+}
 .Blog-Post1 img {
     width: 30%;
     height: 200px;
-    margin-top: 50px;
+    margin-top: 10px;
     padding: 20px;
     background-color: rgb(253, 252, 252);
    
@@ -10,6 +20,7 @@
 .Blog-Post1 {
     display:flex;
     justify-content:end;
+    margin-left: 50px;
 }
 .Blog-Post2 img {
     width: 30%;
@@ -18,6 +29,9 @@
     padding: 20px;
     background-color: white;
 
+}
+.Blog-Post2 img {
+    margin-left: 50px;
 }
 .Blog-Post3 img {
     width: 30%;
@@ -29,10 +43,37 @@
 .Blog-Post3 {
     display: flex;
     justify-content: end;
+    margin-left: 50px;
 }
 .Blog-Post4 img {
     width: 30%;
     height: 200px;
     padding: 20px;
     background-color: white;
+    margin-left: 50px;
+}
+/* When the width is between 600px and 1000px */
+@media screen and (max-width:900px) and (min-width: 600px), (min-width: 1100px)  {
+    .Blog-Post1 img {
+        width: 30%;
+        height: 500px;
+        padding: 20px;
+    }
+
+    .Blog-Post2 img {
+        width: 30%;
+        height: 500px;
+        padding: 20px;
+    }
+
+    .Blog-Post3 img {
+    width: 30%;
+    height: 500px;
+    padding: 20px;
+    }
+    .Blog-Post4 img {
+        width: 30%;
+        height: 500px;
+        padding: 20px;
+    }
 }
