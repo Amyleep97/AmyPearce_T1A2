@@ -10,6 +10,10 @@
     font-family: "Honk", system-ui;
     font-size: 40px;
 }
+.B-Page1 {
+    text-decoration: none;
+}
+
 .Blog-Post1 img {
     width: 30%;
     height: 200px;
