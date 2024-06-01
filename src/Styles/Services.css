@@ -18,15 +18,24 @@
 }
 
 .Services-picture { 
-    margin-top: 60px;
+    margin-top: 30px;
     display: flex;
+    justify-content: center;
 }
 
-h3 {
-    position:absolute;
+
+.Sub-heading {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
     font-family:"Honk", system-ui;
-    background-color: rgb(6, 6, 6);
+}
+
+.Paragraph-about {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 10px;
-    border: solid rgb(8, 8, 7);
-    border-width: 8px;
+    background-color: rgb(219, 218, 218);
+    border: solid black;
+    border-width: 10px;
+    border-radius: 30px;
 }
