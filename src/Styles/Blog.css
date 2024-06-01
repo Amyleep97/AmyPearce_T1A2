@@ -5,12 +5,8 @@
     justify-content: center;
     margin-top: 50px;
 }
-.Post-1 {
-    margin-left: 50px;
-    font-family: "Honk", system-ui;
-    font-size: 40px;
-}
-.B-Page1 {
+
+.Blog-Items a {
     text-decoration: none;
 }
 
@@ -26,8 +22,18 @@
 }
 .Blog-Post1 {
     display:flex;
-    justify-content:end;
+    justify-content: end;
 
+}
+.Blog-Para-1 {
+    margin-right: 250px;
+    margin-top: 50px;
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+    background-color: rgb(219, 218, 218);
+    border: solid black;
+    border-radius: 30px;
 }
 
 .Post-2 {
@@ -36,6 +42,18 @@
     font-family: "Honk", system-ui;
     font-size: 40px;
 }
+
+.Blog-Para-2 {
+        margin-left: 250px;
+        margin-top: 40px;
+        font-size: 15px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        padding: 20px;
+        background-color: rgb(219, 218, 218);
+        border: solid black;
+        border-radius: 30px;
+    }
+
 .Blog-Post2 img {
     width: 30%;
     height: 200px;
@@ -54,6 +72,15 @@
     font-family: "Honk", system-ui;
     font-size: 40px;
     
+}
+.Blog-Para-3 {
+    margin-right: 250px;
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+    background-color: rgb(219, 218, 218);
+    border: solid black;
+    border-radius: 30px;
 }
 .Blog-Post3 img {
     width: 30%;
@@ -74,6 +101,15 @@
     margin-left: 125px;
     font-family: "Honk", system-ui;
     font-size: 40px;
+}
+.Blog-Para-4 {
+    margin-left: 250px;
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+    background-color: rgb(219, 218, 218);
+    border: solid black;
+    border-radius: 30px;
 }
 .Blog-Post4 img {
     width: 30%;
