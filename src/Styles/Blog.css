@@ -1,13 +1,9 @@
-.Blog-title{
+.Blog-title {
     font-size: 50px;
     font-family:"Honk", system-ui;
     display: flex; 
     justify-content: center;
     margin-top: 50px;
-}
-
-.Blog-Items a {
-    text-decoration: none;
 }
 
 .Blog-Post1 img {
@@ -20,14 +16,14 @@
     border-width: 8px;
    
 }
+
 .Blog-Post1 {
     display:flex;
-    justify-content: end;
+    justify-content: center;
 
 }
 .Blog-Para-1 {
-    margin-right: 250px;
-    margin-top: 50px;
+    margin-top: 20px;
     font-size: 15px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 20px;
@@ -44,7 +40,6 @@
 }
 
 .Blog-Para-2 {
-        margin-left: 250px;
         margin-top: 40px;
         font-size: 15px;
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -57,7 +52,7 @@
 .Blog-Post2 img {
     width: 30%;
     height: 200px;
-    margin-bottom:20px;
+    margin-left: 140px;
     padding: 10px;
     background-color: rgb(255, 255, 255);
     border: solid black;
@@ -74,7 +69,6 @@
     
 }
 .Blog-Para-3 {
-    margin-right: 250px;
     font-size: 15px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 20px;
@@ -83,27 +77,21 @@
     border-radius: 30px;
 }
 .Blog-Post3 img {
-    width: 30%;
+    width: 50%;
     height: 200px;
     padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     background-color: rgb(246, 246, 242);
     border: solid black;
     border-width: 8px;
 
 }
 .Blog-Post3 {
-    display: flex;
-    justify-content: end;
+    margin-left: 130px;
 
 }
-.Post-4 {
-    margin-top: 40px;
-    margin-left: 125px;
-    font-family: "Honk", system-ui;
-    font-size: 40px;
-}
 .Blog-Para-4 {
-    margin-left: 250px;
     font-size: 15px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 20px;
@@ -112,13 +100,18 @@
     border-radius: 30px;
 }
 .Blog-Post4 img {
-    width: 30%;
+    width: 50%;
     height: 200px;
     padding: 10px;
+    margin-top: 10px;
     background-color: rgb(255, 255, 252);
     border: solid black;
     border-width: 8px;
 
+}
+
+.Blog-Post4 {
+    margin-left: 140px;
 }
 
 /* When the width is between 600px and 1000px */
