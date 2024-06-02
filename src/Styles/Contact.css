@@ -8,6 +8,7 @@ main {
     font-family: "Honk", system-ui;
     display: flex;
     justify-content: center;
+    text-shadow: 4px 3px 12px rgba(0,0,0,1);
 }
 
 .Contact-Paragraph {
@@ -19,6 +20,7 @@ main {
     background-color: rgb(219, 218, 218);
     border: solid black;
     border-radius: 30px;
+    
 }
 
 .Contact-Paragraph {
@@ -34,6 +36,10 @@ main {
 .form-elements label {
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+textarea {
+    resize: none;
 }
 
 .form-input {
@@ -41,12 +47,8 @@ main {
 }
 
 .form-input:not(.form-textarea) {
-    height: 35px;
-}
-
-.form-textarea {
-    resize: none;
-
+    height: 50px;
+    width: 400px;
 }
 .btn-div {
     text-align: center;
@@ -60,7 +62,3 @@ main {
     font-family: "Honk", system-ui;
     font-size: 30px;
  }
- .form-textarea {
-    resize: none;
-
-}

@@ -3,6 +3,7 @@
     font-family: "Honk", system-ui;
     display: flex;
     justify-content: center;
+    text-shadow: 4px 3px 12px rgba(0,0,0,1);
 
 }
  .Paragraph-about {
@@ -14,6 +15,7 @@
    background-color: rgb(219, 218, 218);
    border: solid black;
    border-radius: 30px;
+   
  }
 
  .Paragraph-about {
@@ -24,7 +26,8 @@
   margin-top: 20px;
   text-decoration: none;
   font-family: "Honk", system-ui;
-  font-size: 30px;
+  font-size: 35px;
+  text-shadow: 4px 3px 12px rgba(0,0,0,1);
 }
 
 .Resume {

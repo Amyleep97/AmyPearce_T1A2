@@ -12,21 +12,19 @@
 
 ## Purpose
 
-The purpose of this personal portfolio is to present what skills and understandings I have of HTML5 and CSS coding. This personal portfolio will be a great example of what I have learnt in Term 1 at CoderAcademy. It will also include some insight into who I am as a person and my work expierence, mainly why I would be great asset to a Webdesign/Web development company.
+The purpose of this personal portfolio is to present what skills and understandings I have of HTML5 and CSS coding. This personal portfolio will be a great example of what I have learnt in Term 1 at CoderAcademy. It will also include some insight into who I am as a person and my work expierence, mainly why I would be great asset as a co worker/freelancer.
 
 ## Functionality/Features
 
 - Navigation Bar (Home, About, Services, Contact and Blog Page)
 - Headings for each page (Used a font from Google fonts called "Honk", system-ui; )
+- Used shadow box to make my headings pop.
 - Social Media Icons (GitHub, Linkedin, Facebook)
 - Used images from Unsplash
 - Used flexbox to help justfiy the positoning of images/headings and text.
 - Services page has a button input that takes you to a PDF of my Resume.
-- Contact page has a textarea to fill in a form and a Submit button.
+- Contact page has a form and a Submit button.
 - Blog page has links that go to each blog page.
-
-
-
 
 ## Screenshots
 
@@ -53,6 +51,7 @@ The purpose of this personal portfolio is to present what skills and understandi
 
 ## Home Page
 
+
 ## About Page
 
 ## Services Page
@@ -72,7 +71,7 @@ The purpose of this personal portfolio is to present what skills and understandi
 
 ## Target audience
 
-My target audience would be companys/small buisnesses looking for a webdesigner. The idea is to draw people into wanting to get in touch with me to help make websites for them.
+My target audience would be companys/small buisnesses looking for a webdesigner. The idea is to draw people in so they are able to get in touch with me without any trouble. 
 
 ## Tech stack 
 
@@ -85,6 +84,7 @@ My target audience would be companys/small buisnesses looking for a webdesigner.
 - CSS
 - Google fonts
 - Unsplash Images
+- Also did my own research using https://www.google.com.au and https://www.w3schools.com/
 
 
 

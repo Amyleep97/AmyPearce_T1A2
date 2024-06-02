@@ -3,6 +3,7 @@
     font-family: "Honk", system-ui;
     display: flex;
     justify-content: center;
+    text-shadow: 4px 3px 12px rgba(0,0,0,1);
 }
 
 .Blog-about3 {
