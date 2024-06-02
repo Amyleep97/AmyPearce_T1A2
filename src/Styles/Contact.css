@@ -48,7 +48,7 @@ textarea {
 
 .form-input:not(.form-textarea) {
     height: 50px;
-    width: 400px;
+    width: 300px;
 }
 .btn-div {
     text-align: center;
