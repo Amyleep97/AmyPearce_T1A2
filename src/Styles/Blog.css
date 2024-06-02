@@ -31,6 +31,13 @@
     border: solid black;
     border-radius: 30px;
 }
+
+.Blog-Para-1 {
+    width: 300px;
+    padding: 25px;
+    box-sizing: border-box;
+    
+}
 .Blog-Para-2 {
         margin-top: 40px;
         font-size: 15px;

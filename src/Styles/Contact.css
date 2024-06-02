@@ -11,12 +11,13 @@ main {
 }
 
 .Contact-Paragraph {
-    font-size: 25px;
+    width: 300px;
+    padding: 25px;
+    box-sizing: border-box;
+    font-size: 20px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding: 50px;
     background-color: rgb(219, 218, 218);
     border: solid black;
-    border-width: 10px;
     border-radius: 30px;
 }
 
@@ -59,3 +60,7 @@ main {
     font-family: "Honk", system-ui;
     font-size: 30px;
  }
+ .form-textarea {
+    resize: none;
+
+}
