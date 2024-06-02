@@ -26,6 +26,19 @@ The purpose of this personal portfolio is to present what skills and understandi
 - Contact page has a form and a Submit button.
 - Blog page has links that go to each blog page.
 
+## My decision making process/aesthetic of my website
+
+- Originally I was going with a clean website with a simple black heading and navigation bar. I changed my mind along the way as the font-family that I found on google fonts felt more accurate to my style. It gives a retro look overall and brings out my personality without even realising it, from there I went with what was working well together. 
+
+## How the components and styling will engage the audience
+
+- This retro looking style will bring in an audience that want something unique instead of a normal looking website. Most people aim for something that is accepted by everyone but this style feels genuine and comforting to those that want to present their buisness with their own aesthetic. The kind of buisness's and companys I hope to engage with are those in the gaming and creative industry. 
+
+## The structure of this website and how different pages will be navigated
+
+- The overall website is very easy to navigate and clear to read, with a straight forward navigation bar at the very head of the website that leads to each page. 
+
+
 ## Screenshots
 
 ### Figma 
@@ -50,11 +63,20 @@ The purpose of this personal portfolio is to present what skills and understandi
 =======
 
 ## Home Page
+
+-The home page starts with a naviagtion bar to take you to each page on this website. There is a Title of my name to show my identity aa clear indication that you are on the first page. I put in a self portrait of myself directly in the middle to show who I am. It has a little paragraph at the footer to introduce myself and my purpose of the website. 
+
 ![home page](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/a722f80d-17b2-4c8a-b5f5-6785aaead41c)
+
+- At the footer of the home page I put in social media icons that link to my Github and Linkedin (Facebook is not linked but still comes up with a facebook login page.)
+
 
 ![Home page 2](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/012c5b5f-eaa0-4985-a1a4-935bc355be29)
 
 ## Services Page
+
+- This page is a mockup of what services I could bring into coding/webdesigning but I am still a beginner so there's not a lot of depth to it. It has an image between each paragraph, I used Lorem to fill in the information and images from unsplashed. 
+
 ![Services Page](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/6c33a972-c35d-4e34-940c-9828a5ba5cd4)
 
 ![services page 2](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/eed569c9-562d-4e6a-a28b-16ccba63bbcf)
@@ -65,17 +87,23 @@ The purpose of this personal portfolio is to present what skills and understandi
 
 ## About Page
 
+- This about page tells you about who I am as a person and gives a little friendly introduction. I kept this short and sweet as we want to focus more on everything else rather than just my personality and hobbies.
+
 ![About me page 1](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/bc424d49-b8c6-4d04-acdc-5e351b20b6b2)
 
 ![About me page 2](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/5f8616ca-1561-4437-b90b-f3a2ab252c04)
 
 ## Contact Page
 
+- This page is a simple but good looking layout so who ever needs to contact me can do so by filling in the form. The hyperlink below that says "Resume" this will direct you to a PDF of my resume so that others can see my work experience.
+
 ![Contact page1](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/bb51451b-c334-4dae-8f09-72f97db602bf)
 
 ![contact page 2](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/f2cd343f-8534-4a1e-ad04-6c55075786ee)
 
 ## Blog Page
+
+-This Blog has subheadings which are hyperlinks that take you to each blog page. I put in images from unsplashed to make this look like a legit blog about coding. Under each heading it has a small description of what each blog page is about. 
 
 ![Blog page](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/d2eff042-4bc5-4d64-b3d7-34723f06c2fe)
 
@@ -89,6 +117,9 @@ The purpose of this personal portfolio is to present what skills and understandi
 
 
 ## Blog Page 1
+
+-Each Blog Page has a Subheading to indicate what each blog is about. I used lorem to fill in the information about each subject. 
+
 ![blog page 1](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/917ec939-da48-403a-ba49-a5ea76bd3227)
 
 ## Blog Page 2
@@ -119,6 +150,7 @@ My target audience would be companys/small buisnesses looking for a webdesigner.
 - Google fonts
 - Unsplash Images
 - Also did my own research using https://www.google.com.au and https://www.w3schools.com/
+
 
 
 
