@@ -52,3 +52,58 @@
     margin-right: auto;
 
 }
+.Hyperlink3 {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-family: "Honk", system-ui;
+    font-size: 30px;
+    text-shadow: 4px 3px 12px rgba(0,0,0,1);
+}
+.Blog-Para-3 {
+    width: 300px;
+    padding: 25px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(219, 218, 218);
+    border: solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.Blog-Para-3 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Hyperlink4 {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-family: "Honk", system-ui;
+    font-size: 30px;
+    text-shadow: 4px 3px 12px rgba(0,0,0,1);
+}
+.Blog-Para-4 {
+    width: 300px;
+    padding: 25px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(219, 218, 218);
+    border: solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.Blog-Para-4 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
