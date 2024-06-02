@@ -50,24 +50,58 @@ The purpose of this personal portfolio is to present what skills and understandi
 =======
 
 ## Home Page
+![home page](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/a722f80d-17b2-4c8a-b5f5-6785aaead41c)
 
+![Home page 2](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/012c5b5f-eaa0-4985-a1a4-935bc355be29)
+
+## Services Page
+![Services Page](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/6c33a972-c35d-4e34-940c-9828a5ba5cd4)
+
+![services page 2](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/eed569c9-562d-4e6a-a28b-16ccba63bbcf)
+
+![services page 3](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/269adf1f-9a0a-4045-a0e0-d6de91c0d5e6)
+
+![services page 4](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/7f5ad6cb-a45e-4fcb-b8ef-8006f9c362c0)
 
 ## About Page
 
-## Services Page
+![About me page 1](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/bc424d49-b8c6-4d04-acdc-5e351b20b6b2)
+
+![About me page 2](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/5f8616ca-1561-4437-b90b-f3a2ab252c04)
 
 ## Contact Page
 
+![Contact page1](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/bb51451b-c334-4dae-8f09-72f97db602bf)
+
+![contact page 2](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/f2cd343f-8534-4a1e-ad04-6c55075786ee)
+
 ## Blog Page
 
+![Blog page](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/d2eff042-4bc5-4d64-b3d7-34723f06c2fe)
+
+![blog home page 1](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/b4c58d5b-e4e3-4316-881b-e5f683b780b1)
+
+![blog home page 2](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/cddb276e-27b1-43ab-b962-9c78756a1112)
+
+![blog home page 3](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/52e0747f-84b4-4a67-b2c2-f1618cf4f95a)
+
+![blog home page 4](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/bf27a84a-462b-45d0-ae70-9ef316fc8221)
+
+
 ## Blog Page 1
+![blog page 1](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/917ec939-da48-403a-ba49-a5ea76bd3227)
 
 ## Blog Page 2
 
+![blog page2](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/dc49f7dd-f136-496f-9482-128a186e9d21)
+
 ## Blog Page 3
+
+![blog page 3](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/f26dc654-bd03-46f2-b415-7417ec81a323)
 
 ## Blog Page 4
 
+![blog page 4](https://github.com/Amyleep97/AmyPearce_T1A2/assets/168613540/1bcf6da0-d8ec-4cd5-95de-b2d69a32c89d)
 
 ## Target audience
 
